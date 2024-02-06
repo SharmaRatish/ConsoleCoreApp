@@ -40,7 +40,7 @@ namespace ConsoleCoreApp.DAY5
         {
             Console.WriteLine("static constrector called");
         }
-        ~Employee()
+         ~Employee()
         {
             Console.WriteLine("object removed");
         }
